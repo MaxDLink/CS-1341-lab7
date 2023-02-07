@@ -1,0 +1,28 @@
+Game Results:
+************************************
+*****INSTANT REPLAY FOR TEAM team1*****
+Play 1:    Run play result - moved forward 8 yards
+Play 2:    Pass play result - moved forward 15 yards
+Play 3:    Run play result - moved forward 2 yards
+Play 4:    Pass play result - moved forward 10 yards
+Play 5:    Run play result - moved forward 2 yards
+Play 6:    Pass play result - Blocked! 0 yards
+Play 7:    Run play result - moved forward 4 yards
+Play 8:    Pass play result - moved forward 5 yards
+Play 9:    Run play result - moved forward 8 yards
+Play 10:    Pass play result - Blocked! 0 yards
+Play 11:    Run play result - moved forward 5 yards
+Play 12:    Pass play result - moved back -5 yards
+Play 13:    Run play result - moved forward 4 yards
+Play 14:    Pass play result - moved forward 5 yards
+Play 15:    Run play result - moved forward 5 yards
+*****INSTANT REPLAY FOR TEAM team2*****
+Play 1:    Pass play result - moved forward 5 yards
+Play 2:    Run play result - moved forward 2 yards
+Play 3:    Pass play result - moved forward 25 yards
+Play 4:    Run play result - moved forward 9 yards
+Play 5:    Pass play result - moved forward 25 yards
+Play 6:    Run play result - moved back -3 yards
+Play 7:    Pass play result - moved forward 5 yards
+Play 8:    Run play result - moved back -1 yards
+Play 9:    Pass play result - moved back -10 yards
